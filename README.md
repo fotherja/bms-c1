@@ -1,3 +1,7 @@
+Forked 14/11/24 with the aim of
+1) changing the ESP32 module to one that is easier to solder and check is soldered correctly
+
+
 # Libre Solar BMS C1
 
 ![Development Stage](https://img.shields.io/badge/development%20stage-eval-yellow.svg) Tested prototype, only minor issues left.
